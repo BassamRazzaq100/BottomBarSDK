@@ -40,7 +40,7 @@ class BottomBar @JvmOverloads constructor(
 
     // Attribute Defaults
     @ColorInt
-    private var _barBackgroundColor = Color.WHITE
+    private var _barBackgroundColor = Color.BLUE
 
     @ColorInt
     private var _barIndicatorColor = Color.parseColor(DEFAULT_INDICATOR_COLOR)
